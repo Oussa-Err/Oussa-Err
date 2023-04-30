@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 📫 How to reach me **dexterlecter0@gmail.com**
+- 📫 How to reach me **mustachgata@gmail.com**
 
 - ⚡ Fun fact **The first programmer was the daughter of a mad poet**
 
