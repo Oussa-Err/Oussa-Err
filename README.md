@@ -6,8 +6,8 @@
 
 <hr>
 <!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oussa-err&label=Profile%20views&color=0e75b6&style=flat" alt="oussa-err" /> </p>
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oussa-err&label=Profile%20views&color=0e75b6 style=flat" alt="oussa-err" /> </p> -->
+
 - 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **mustachgata@gmail.com**
