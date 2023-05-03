@@ -8,13 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussa-err&label=Profile%20views&color=0e75b6&style=flat" alt="oussa-err" /> </p>
 
-- 🔭 I’m currently working on [e-commerce web app](in progress)
-
 - 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **mustachgata@gmail.com**
-
-- ⚡ Fun fact **The first programmer was the daughter of a mad poet**
 
 <!---
   <h3 align="left">Connect with me:</h3> <p align="left"></p>
@@ -29,6 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussa-err&show_icons=true&locale=en&layout=compact" alt="oussa-err" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussa-err&show_icons=true&locale=en" alt="oussa-err" /></p>
-
+<!---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oussa-err&" alt="oussa-err" /></p>
-
+-->
