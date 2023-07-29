@@ -8,7 +8,7 @@
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussa-err&label=Profile%20views&color=0e75b6 style=flat" alt="oussa-err" /> </p> -->
 
-- 🌱 I’m currently learning **Node.js Express MongoDB**
+- 🌱 I’m currently learning **Node.js, Express, MongoDB**
 
 - 📫 How to reach me **mustachgata@gmail.com**
 
