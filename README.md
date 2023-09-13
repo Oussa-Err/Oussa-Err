@@ -8,7 +8,7 @@
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussa-err&label=Profile%20views&color=0e75b6 style=flat" alt="oussa-err" /> </p> -->
 💫 About Me:
-🔭 I’m currently working on a full stack web application: [tsf foundation](https://tsf-foundation.vercel.app) <br>🌱 I’m currently learning Deployment and DevOps skills<br>💬 Ask me about [nodeJS, react]<br>📫 How to reach me mustachgata@gmail.com<br>👨‍💻 All of my projects are available at [portfolio](https://oussamaerr.vercel.app)<br>📝 I regularly write tweets on X  [Twitter](https://twitter.com/MedErraoui)
+🔭 I’m currently working on a full stack web application: <a href="https://tsf-foundation.vercel.app">tsf-foundation</a> <br>🌱 I’m currently learning Deployment and DevOps skills<br>💬 Ask me about [nodeJS, react]<br>📫 How to reach me mustachgata@gmail.com<br>👨‍💻 All of my projects are available at <a href="https://oussamaerr.vercel.app">portfolio</a> <br>📝 I regularly write tweets on X <a href="https://twitter.com/MedErraoui">Twitter</a>
 
 
 ## 🌐 Socials:
