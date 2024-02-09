@@ -1,15 +1,16 @@
 <!-- <img alt='coding-banner' src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg'> --->
 <h3 align="center">Full Stack Web Developer</h3>     
 <!-- <center> alx student </center> --->
- <img align="right" width="400"src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" 
-
+<!--  <img align="right" width="400"src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" 
+ -->
 <hr>         
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussa-err&label=Profile%20views&color=0e75b6 style=flat" alt="oussa-err" /> </p> -->
 💫 About Me: 
 <br>🎯 Portfolio website: <a href="https://oussamaerr.vercel.app">portfolio</a>
 <br>💬 Ask me about anything, I am happy to help 😄
-<br>📫 How to reach me: <a href:"mailto:mustachgata@gmail.com">Let's get in touch!</a> 
+<br>📫 How to reach me: <a href="mailto:mustachgata@gmail.com">Let's get in touch!</a>
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/invites/contact/?i=1talu76ufsice&utm_content=ok1hsau) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-erraoui) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16952244) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MedErraoui) 
