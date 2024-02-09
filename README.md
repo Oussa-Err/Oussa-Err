@@ -6,9 +6,15 @@
 <hr>         
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussa-err&label=Profile%20views&color=0e75b6 style=flat" alt="oussa-err" /> </p> -->
-💫 About Me:
-🔭 I’m currently working on a full stack web applications: <a href="https://tsf-foundation.vercel.app">tsf-foundation</a> and <a href="https://healthyfarm.netlify.app/">Healthy Farm</a> <br>🌱 I’m currently learning Deployment and DevOps skills<br>💬 Ask me about [React, JS, Python]<br>📫 How to reach me mustachgata@gmail.com<br>👨‍💻 My projects are available at my <a href="https://oussamaerr.vercel.app">portfolio</a> <br>📝 I regularly write tweets on X <a href="https://twitter.com/MedErraoui">Twitter</a>
+💫 About Me: 
+<br>🎯 Portfolio website: <a href="https://oussamaerr.vercel.app">portfolio</a>
+<br>💬 Ask me about anything, I am happy to help 😄
+<br>📫 How to reach me: <a href:"mustachgata@gmail.com">Let's get in touch!</a> 
 
+
+      Portfolio
+    💬 Ask me about anything, I am happy to help 😄
+    📬 How to reach me: Let's get in touch!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/invites/contact/?i=1talu76ufsice&utm_content=ok1hsau) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-erraoui) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16952244) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MedErraoui) 
