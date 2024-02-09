@@ -9,12 +9,7 @@
 💫 About Me: 
 <br>🎯 Portfolio website: <a href="https://oussamaerr.vercel.app">portfolio</a>
 <br>💬 Ask me about anything, I am happy to help 😄
-<br>📫 How to reach me: <a href:"mustachgata@gmail.com">Let's get in touch!</a> 
-
-
-      Portfolio
-    💬 Ask me about anything, I am happy to help 😄
-    📬 How to reach me: Let's get in touch!
+<br>📫 How to reach me: <a href:"mailto:mustachgata@gmail.com">Let's get in touch!</a> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/invites/contact/?i=1talu76ufsice&utm_content=ok1hsau) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-erraoui) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16952244) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MedErraoui) 
