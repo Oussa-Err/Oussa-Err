@@ -6,7 +6,7 @@
 <hr>         
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussa-err&label=Profile%20views&color=0e75b6 style=flat" alt="oussa-err" /> </p>  -->
 
-<br>🎯 Portfolio website: <a href="https://oussamaerr.vercel.app">portfolio</a>
+<br>🎯 <a href="https://oussamaerr.vercel.app">portfolio</a>
 <br>💬 Ask me about anything, I am happy to help 😄
 <br>📫 How to reach me: <a href="mailto:mustachgata@gmail.com">Let's get in touch!</a>
  
