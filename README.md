@@ -9,7 +9,7 @@
 
 <br>🎯 <a href="https://oussamaerr.vercel.app">portfolio</a>
 <br>💬 Ask me about anything, I am happy to help 😄
-<br>📫 How to reach me: <a href="mailto:mustachgata@gmail.com">Let's get in touch!</a>
+<br>📫 How to reach me: <a href="mailto:erraoui.ouss@gmail.com">Let's get in touch!</a>
  
 
 ## 🌐 Socials:
