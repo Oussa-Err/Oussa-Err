@@ -7,15 +7,16 @@
 <hr>         
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussa-err&label=Profile%20views&color=0e75b6 style=flat" alt="oussa-err" /> </p>  -->
 
-<br>🎯 <a href="https://oussamaerr.vercel.app">portfolio</a>
+<br>🎯 See my <a href="https://oussamaerr.vercel.app">portfolio</a>
 <br>💬 Ask me about anything, I am happy to help 😄
 <br>📫 How to reach me: <a href="mailto:erraoui.ouss@gmail.com">Let's get in touch!</a>
+<br>🧠 I'm learning DevOps, Java
  
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-erraoui) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16952244) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MedErraoui) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 <hr>
 
