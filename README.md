@@ -1,5 +1,5 @@
 <!-- <img alt='coding-banner' src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg'> --->
-<h3 align="center">Hello, </h3>
+<h2 align="center">Hi 👋 My name is Oussama Erraoui</h2>
 <!-- <h3 align="center">Full stack developer from Morocco</h3> -->
 <!-- <center> alx student </center> --->
 <!--  <img align="right" width="400"src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" 
@@ -29,6 +29,10 @@
 <hr>
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+
+<a href="https://github.com/ettalha0x" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussa-err&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 <!--# 📊 GitHub Stats:
  ![](https://github-readme-stats.vercel.app/api?username=Oussa-Err&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
